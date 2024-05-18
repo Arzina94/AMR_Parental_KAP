@@ -1,6 +1,4 @@
-#  Beneficial effects of physical activity in an HIV
-infected woman with lipodystrophy: a case report
-Knowledge attitude and practice(title)
+#  Beneficial effects of physical activity in an HIVinfected woman with lipodystrophy: a case report
 ## Abstract
 Lipodystrophy is common in patients infected with human immunodeficiency virus receiving highly
  active antiretroviral therapy, and presents with morphologic changes and metabolic alterations that are associated
